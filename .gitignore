@@ -1,0 +1,5 @@
+/vendor
+/node_modules
+/bootstrap/cache
+.env
+composer.lock

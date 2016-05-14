@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "devDependencies": {},
+  "dependencies": {
+    "materialize-css": "^0.97.6"
+  }
+}
